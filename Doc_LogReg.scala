@@ -6,6 +6,7 @@ import org.apache.spark.ml.classification.LogisticRegression
 // $example off$
 import org.apache.spark.sql.SparkSession
 
+// object definition
 object LogisticRegressionWithElasticNetExample {
 
   def main(): Unit = {
